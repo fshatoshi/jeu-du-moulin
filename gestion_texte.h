@@ -1,0 +1,6 @@
+#ifndef GESTION_TEXTE_H_INCLUDED
+#define GESTION_TEXTE_H_INCLUDED
+
+void regle();
+
+#endif // GESTION_TEXTE_H_INCLUDED

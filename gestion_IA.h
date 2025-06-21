@@ -1,0 +1,6 @@
+#ifndef GESTION_IA_H_INCLUDED
+#define GESTION_IA_H_INCLUDED
+
+
+
+#endif // GESTION_IA_H_INCLUDED

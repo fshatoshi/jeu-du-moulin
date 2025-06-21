@@ -1,0 +1,940 @@
+# depslib dependency file v1.0
+1738179896 source:c:\users\user\desktop\jeu_du_moulin\gestion_cases.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738192336 source:c:\users\user\desktop\jeu_du_moulin\gestion_conversion.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739047872 source:c:\users\user\desktop\jeu_du_moulin\gestion_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_texte.h"
+	"gestion_algorithme_AI.h"
+
+1738770852 source:c:\users\user\desktop\jeu_du_moulin\gestion_joueurs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738959625 source:c:\users\user\desktop\jeu_du_moulin\gestion_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739017829 source:c:\users\user\desktop\jeu_du_moulin\gestion_mouvements.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738973314 source:c:\users\user\desktop\jeu_du_moulin\gestion_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739019124 source:c:\users\user\desktop\jeu_du_moulin\gestion_regles.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738157554 source:c:\users\user\desktop\jeu_du_moulin\gestion_texte.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_texte.h"
+
+1738241878 source:c:\users\user\desktop\jeu_du_moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_plateau.h"
+	"gestion_jeu.h"
+
+1738153142 c:\users\user\desktop\jeu_du_moulin\gestion_placement.h
+	"gestion_joueurs.h"
+
+1738800610 c:\users\user\desktop\jeu_du_moulin\gestion_joueurs.h
+
+1738804839 c:\users\user\desktop\jeu_du_moulin\gestion_pions.h
+	"gestion_joueurs.h"
+
+1739022375 source:c:\users\user\desktop\jeu_du_moulin\gestion_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1738088027 c:\users\user\desktop\jeu_du_moulin\gestion_conversion.h
+	"gestion_pions.h"
+
+1738079894 c:\users\user\desktop\jeu_du_moulin\gestion_plateau.h
+
+1738157963 c:\users\user\desktop\jeu_du_moulin\gestion_cases.h
+	"gestion_joueurs.h"
+	"gestion_pions.h"
+
+1738327330 source:c:\users\user\desktop\jeu_du_moulin\gestion_plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1738088031 c:\users\user\desktop\jeu_du_moulin\gestion_jeu.h
+	"gestion_joueurs.h"
+
+1738078114 c:\users\user\desktop\jeu_du_moulin\gestion_texte.h
+
+1738176550 c:\users\user\desktop\jeu_du_moulin\gestion_mouvements.h
+	"gestion_joueurs.h"
+
+1738771687 c:\users\user\desktop\jeu_du_moulin\gestion_moulin.h
+	"gestion_joueurs.h"
+
+1738178694 c:\users\user\desktop\jeu_du_moulin\gestion_regles.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1739021451 source:c:\users\user\desktop\jeu_du_moulin\gestion_ai_deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739047872 c:\users\user\desktop\jeu_du_moulin\gestion_algorithme_ai.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1738975367 source:c:\users\user\desktop\jeu_du_moulin\gestion_ai_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739023174 source:c:\users\user\desktop\jeu_du_moulin\gestion_ai_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739045779 source:c:\users\user\desktop\jeu_du_moulin\gestion_algorithme_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739022895 source:c:\users\user\desktop\jeu_du_moulin\gestion_ia_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739045991 source:c:\users\user\desktop\jeu_du_moulin\evaluation.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738977049 source:c:\users\user\desktop\jeu_du_moulin\gestion_capturepion_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1738949109 source:c:\users\user\desktop\jeu_du_moulin\gestion_cases_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739048118 source:c:\users\user\desktop\jeu_du_moulin\gestion_placement_ia.c
+	"gestion_algorithme_AI.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\evaluation.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739054205 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_algorithme_ai.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_joueurs.h
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_cases.h
+	"gestion_joueurs.h"
+	"gestion_pions.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_pions.h
+	"gestion_joueurs.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_jeu.h
+	"gestion_joueurs.h"
+
+1739053834 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_moulin.h
+	"gestion_joueurs.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_mouvements.h
+	"gestion_joueurs.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_placement.h
+	"gestion_joueurs.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_plateau.h
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_regles.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_ai_deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739054716 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_ai_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739052297 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_ai_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739050030 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_algorithme_ai.c
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_capturepion_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_cases.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_cases_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_conversion.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_ia_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_conversion.h
+	"gestion_pions.h"
+
+1739054525 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_texte.h"
+	"gestion_algorithme_AI.h"
+
+1739049789 c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_texte.h
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_joueurs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_mouvements.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_regles.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_texte.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_texte.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_plateau.h"
+	"gestion_jeu.h"
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_fonctions_ai.c
+
+1739049789 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_ia_algorithme.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739053738 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\gestion_placement_ia.c
+	"gestion_algorithme_AI.h"
+
+1739049983 source:c:\users\traore\desktop\jeu_du__moullin\jeu_du__moulin\evaluate.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\evaluation.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_algorithme_ai.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_joueurs.h
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_cases.h
+	"gestion_joueurs.h"
+	"gestion_pions.h"
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_pions.h
+	"gestion_joueurs.h"
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_jeu.h
+	"gestion_joueurs.h"
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_moulin.h
+	"gestion_joueurs.h"
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_mouvements.h
+	"gestion_joueurs.h"
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_placement.h
+	"gestion_joueurs.h"
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_plateau.h
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_regles.h
+	"gestion_joueurs.h"
+	"gestion_cases.h"
+
+1739100741 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_ai_deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739097858 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_ai_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_ai_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_algorithme_ai.c
+
+1739057847 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_capturepion_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_cases.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_cases_ai.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_conversion.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739099347 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_ia_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739055713 c:\users\user\desktop\jeu_du__moulin-main\gestion_conversion.h
+	"gestion_pions.h"
+
+1739060769 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_texte.h"
+	"gestion_algorithme_AI.h"
+
+1739055714 c:\users\user\desktop\jeu_du__moulin-main\gestion_texte.h
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_joueurs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_moulin.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739064164 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_mouvements.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739064164 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_pions.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739055714 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_placement.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739055714 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_plateau.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+	"gestion_conversion.h"
+
+1739055714 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_regles.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055714 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_texte.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_texte.h"
+
+1739055714 source:c:\users\user\desktop\jeu_du__moulin-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_plateau.h"
+	"gestion_jeu.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\evaluate.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739055713 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_fonctions_ai.c
+
+1739098134 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_ia_algorithme.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_algorithme_AI.h"
+	"gestion_cases.h"
+	"gestion_pions.h"
+	"gestion_joueurs.h"
+	"gestion_jeu.h"
+	"gestion_moulin.h"
+	"gestion_mouvements.h"
+	"gestion_placement.h"
+	"gestion_plateau.h"
+	"gestion_regles.h"
+
+1739096159 source:c:\users\user\desktop\jeu_du__moulin-main\gestion_placement_ia.c
+	"gestion_algorithme_AI.h"
+
